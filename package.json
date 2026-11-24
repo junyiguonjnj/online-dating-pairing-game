@@ -1,0 +1,9 @@
+{
+  "name": "online-dating-pairing-game",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Anonymous real-time classroom pairing game adapted from Ellis & Kelley (1999)",
+  "scripts": { "start": "node server.js", "test": "node --test tests/*.test.js" },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
