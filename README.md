@@ -68,4 +68,4 @@ This project is original code and an independent teaching adaptation inspired by
 
 ## Publishing with an academic chapter
 
-The tool can be linked as a potential companion resource after the chapter collaborators and publisher approve the final link and credit line. The software and chapter are distinct works. Consider making a fixed GitHub release and Zenodo archive/DOI only after classroom testing and finalization. Developer/contributor credit should be confirmed with collaborators prior to publication.
+
